@@ -1,0 +1,31 @@
+{
+	"name": "front-end-electroshop",
+	"description": "This is my course project",
+	"author": "Artyom Pshenko",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@types/node": "22.7.5",
+		"@types/react": "18.3.11",
+		"@types/react-dom": "18.3.1",
+		"autoprefixer": "^10.4.20",
+		"front-end-electroshop": "file:",
+		"next": "13.2.1",
+		"postcss": "^8.4.47",
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"tailwindcss": "^3.4.13",
+		"typescript": "5.6.3"
+	},
+	"devDependencies": {
+		"@trivago/prettier-plugin-sort-imports": "^4.3.0",
+		"prettier": "^3.3.3",
+		"prettier-plugin-tailwindcss": "^0.6.8"
+	}
+}
